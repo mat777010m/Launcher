@@ -1,0 +1,47 @@
+﻿<Page x:Class="Launcher.SCPpageinfo"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Launcher"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="SCPpageinfo">
+    <Page.Resources>
+        <Storyboard x:Key="GrajSCPbtn">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="button">
+                <EasingDoubleKeyFrame KeyTime="0" Value="303"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.6" Value="22.5"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="button">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0.395"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.6" Value="1"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="button">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.6" Value="-3"/>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+    </Page.Resources>
+    <Page.Triggers>
+        <EventTrigger RoutedEvent="FrameworkElement.Loaded">
+            <BeginStoryboard Storyboard="{StaticResource GrajSCPbtn}"/>
+        </EventTrigger>
+    </Page.Triggers>
+
+    <Grid>
+        <Button x:Name="button" Content="Graj" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="151.5" Margin="0,0,146,151" Click="Button_Click" Height="42.5" RenderTransformOrigin="0.5,0.5">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <TextBlock HorizontalAlignment="Left" Margin="83,35,0,0" TextWrapping="Wrap" Text="Go SCP" VerticalAlignment="Top" FontSize="36" FontFamily="Segoe UI Black" Foreground="#FF7E3AB7"/>
+        <TextBlock HorizontalAlignment="Left" Margin="52,139,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="16" Height="181" Width="390" Foreground="#FF7748CB"><Run Text="Go SCP jest aktualnie w wersji alpha"/><Run Text=" (w dodatku nieskończonej)! Grasz na własną odpowiedzialność. Gra nie może niczego uszkodzić, ale można się załamać początkowym wyglądem gry. Do launchera dodawane są tylko sprawdzone wersje i bez leakowania map i innych SCP. "/><LineBreak/><Run/><LineBreak/><Run Text=" &#x9;&#x9;&#x9;"/><Run Text=" Życzymy dobrej gry!"/></TextBlock>
+
+    </Grid>
+</Page>

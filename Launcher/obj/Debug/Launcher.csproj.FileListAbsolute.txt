@@ -1,0 +1,95 @@
+D:\Mati\vs repos\Launcher\Launcher\bin\Debug\Launcher.exe
+D:\Mati\vs repos\Launcher\Launcher\bin\Debug\MaterialDesignColors.dll
+D:\Mati\vs repos\Launcher\Launcher\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Mati\vs repos\Launcher\Launcher\bin\Debug\Launcher.exe.config
+D:\Mati\vs repos\Launcher\Launcher\bin\Debug\MaterialDesignColors.pdb
+D:\Mati\vs repos\Launcher\Launcher\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Mati\vs repos\Launcher\Launcher\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Mati\vs repos\Launcher\Launcher\obj\Debug\Biblioteka.g.cs
+D:\Mati\vs repos\Launcher\Launcher\obj\Debug\Login.g.cs
+D:\Mati\vs repos\Launcher\Launcher\obj\Debug\MainWindow.g.cs
+D:\Mati\vs repos\Launcher\Launcher\obj\Debug\HomeMain.g.cs
+D:\Mati\vs repos\Launcher\Launcher\obj\Debug\App.g.cs
+D:\Mati\vs repos\Launcher\Launcher\obj\Debug\Launcher_MarkupCompile.cache
+D:\Mati\vs repos\Launcher\Launcher\obj\Debug\Launcher_MarkupCompile.lref
+D:\Mati\vs repos\Launcher\Launcher\obj\Debug\App.baml
+D:\Mati\vs repos\Launcher\Launcher\obj\Debug\Biblioteka.baml
+D:\Mati\vs repos\Launcher\Launcher\obj\Debug\Login.baml
+D:\Mati\vs repos\Launcher\Launcher\obj\Debug\MainWindow.baml
+D:\Mati\vs repos\Launcher\Launcher\obj\Debug\HomeMain.baml
+D:\Mati\vs repos\Launcher\Launcher\obj\Debug\Launcher.g.resources
+D:\Mati\vs repos\Launcher\Launcher\obj\Debug\Launcher.Properties.Resources.resources
+D:\Mati\vs repos\Launcher\Launcher\obj\Debug\Launcher.csproj.GenerateResource.cache
+D:\Mati\vs repos\Launcher\Launcher\obj\Debug\Launcher.csproj.CoreCompileInputs.cache
+D:\Mati\vs repos\Launcher\Launcher\obj\Debug\Launcher.csproj.CopyComplete
+D:\Mati\vs repos\Launcher\Launcher\obj\Debug\Launcher.exe
+D:\Mati\vs repos\Launcher\Launcher\obj\Debug\Launcher.pdb
+D:\Mati\vs repos\Launcher\Launcher\bin\Debug\Launcher.pdb
+D:\Mati\vs repos\Launcher\Launcher\obj\Debug\Launcher.csprojAssemblyReference.cache
+D:\Mati\vs repos\Launcher\Launcher\bin\Debug\Google.Protobuf.dll
+D:\Mati\vs repos\Launcher\Launcher\bin\Debug\Zstandard.Net.dll
+D:\Mati\vs repos\Launcher\Launcher\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Mati\vs repos\Launcher\Launcher\bin\Debug\BouncyCastle.Crypto.dll
+D:\Mati\vs repos\Launcher\Launcher\bin\Debug\Ubiety.Dns.Core.dll
+D:\Mati\vs repos\Launcher\Launcher\bin\Debug\Renci.SshNet.dll
+D:\Mati\vs repos\Launcher\Launcher\bin\Debug\System.Memory.dll
+D:\Mati\vs repos\Launcher\Launcher\bin\Debug\System.Buffers.dll
+D:\Mati\vs repos\Launcher\Launcher\bin\Debug\K4os.Compression.LZ4.dll
+D:\Mati\vs repos\Launcher\Launcher\bin\Debug\K4os.Hash.xxHash.dll
+D:\Mati\vs repos\Launcher\Launcher\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Mati\vs repos\Launcher\Launcher\bin\Debug\MySql.Data.xml
+D:\Mati\vs repos\Launcher\Launcher\obj\Debug\Launcher.exe.config
+D:\Mati\vs repos\Launcher\Launcher\bin\Debug\MySql.Data.EntityFramework.xml
+D:\Ważne pliki\vs repos\Launcher\Launcher\bin\Debug\Launcher.exe.config
+D:\Ważne pliki\vs repos\Launcher\Launcher\bin\Debug\Launcher.exe
+D:\Ważne pliki\vs repos\Launcher\Launcher\bin\Debug\Launcher.pdb
+D:\Ważne pliki\vs repos\Launcher\Launcher\bin\Debug\MaterialDesignColors.dll
+D:\Ważne pliki\vs repos\Launcher\Launcher\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Ważne pliki\vs repos\Launcher\Launcher\bin\Debug\Google.Protobuf.dll
+D:\Ważne pliki\vs repos\Launcher\Launcher\bin\Debug\Zstandard.Net.dll
+D:\Ważne pliki\vs repos\Launcher\Launcher\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Ważne pliki\vs repos\Launcher\Launcher\bin\Debug\BouncyCastle.Crypto.dll
+D:\Ważne pliki\vs repos\Launcher\Launcher\bin\Debug\Ubiety.Dns.Core.dll
+D:\Ważne pliki\vs repos\Launcher\Launcher\bin\Debug\Renci.SshNet.dll
+D:\Ważne pliki\vs repos\Launcher\Launcher\bin\Debug\System.Memory.dll
+D:\Ważne pliki\vs repos\Launcher\Launcher\bin\Debug\System.Buffers.dll
+D:\Ważne pliki\vs repos\Launcher\Launcher\bin\Debug\K4os.Compression.LZ4.dll
+D:\Ważne pliki\vs repos\Launcher\Launcher\bin\Debug\K4os.Hash.xxHash.dll
+D:\Ważne pliki\vs repos\Launcher\Launcher\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Ważne pliki\vs repos\Launcher\Launcher\bin\Debug\MaterialDesignColors.pdb
+D:\Ważne pliki\vs repos\Launcher\Launcher\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Ważne pliki\vs repos\Launcher\Launcher\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Ważne pliki\vs repos\Launcher\Launcher\bin\Debug\MySql.Data.xml
+D:\Ważne pliki\vs repos\Launcher\Launcher\bin\Debug\MySql.Data.EntityFramework.xml
+D:\Ważne pliki\vs repos\Launcher\Launcher\obj\Debug\Launcher.csprojAssemblyReference.cache
+D:\Ważne pliki\vs repos\Launcher\Launcher\obj\Debug\Launcher.exe.config
+D:\Ważne pliki\vs repos\Launcher\Launcher\obj\Debug\Biblioteka.g.cs
+D:\Ważne pliki\vs repos\Launcher\Launcher\obj\Debug\Login.g.cs
+D:\Ważne pliki\vs repos\Launcher\Launcher\obj\Debug\MainWindow.g.cs
+D:\Ważne pliki\vs repos\Launcher\Launcher\obj\Debug\HomeMain.g.cs
+D:\Ważne pliki\vs repos\Launcher\Launcher\obj\Debug\App.g.cs
+D:\Ważne pliki\vs repos\Launcher\Launcher\obj\Debug\Launcher_MarkupCompile.cache
+D:\Ważne pliki\vs repos\Launcher\Launcher\obj\Debug\Launcher_MarkupCompile.lref
+D:\Ważne pliki\vs repos\Launcher\Launcher\obj\Debug\App.baml
+D:\Ważne pliki\vs repos\Launcher\Launcher\obj\Debug\Biblioteka.baml
+D:\Ważne pliki\vs repos\Launcher\Launcher\obj\Debug\Login.baml
+D:\Ważne pliki\vs repos\Launcher\Launcher\obj\Debug\MainWindow.baml
+D:\Ważne pliki\vs repos\Launcher\Launcher\obj\Debug\HomeMain.baml
+D:\Ważne pliki\vs repos\Launcher\Launcher\obj\Debug\Launcher.g.resources
+D:\Ważne pliki\vs repos\Launcher\Launcher\obj\Debug\Launcher.Properties.Resources.resources
+D:\Ważne pliki\vs repos\Launcher\Launcher\obj\Debug\Launcher.csproj.GenerateResource.cache
+D:\Ważne pliki\vs repos\Launcher\Launcher\obj\Debug\Launcher.csproj.CoreCompileInputs.cache
+D:\Ważne pliki\vs repos\Launcher\Launcher\obj\Debug\Launcher.csproj.CopyComplete
+D:\Ważne pliki\vs repos\Launcher\Launcher\obj\Debug\Launcher.exe
+D:\Ważne pliki\vs repos\Launcher\Launcher\obj\Debug\Launcher.pdb
+D:\Ważne pliki\vs repos\Launcher\Launcher\obj\Debug\SCPpageinfo.g.cs
+D:\Ważne pliki\vs repos\Launcher\Launcher\obj\Debug\SCPpageinfo.baml
+D:\Ważne pliki\vs repos\Launcher\Launcher\obj\Debug\SCP.g.cs
+D:\Ważne pliki\vs repos\Launcher\Launcher\obj\Debug\Sklep.g.cs
+D:\Ważne pliki\vs repos\Launcher\Launcher\obj\Debug\SCP.baml
+D:\Ważne pliki\vs repos\Launcher\Launcher\obj\Debug\Sklep.baml
+D:\Ważne pliki\vs repos\Launcher\Launcher\bin\Debug\Launcher.exe.manifest
+D:\Ważne pliki\vs repos\Launcher\Launcher\bin\Debug\Launcher.application
+D:\Ważne pliki\vs repos\Launcher\Launcher\obj\Debug\Launcher.TrustInfo.xml
+D:\Ważne pliki\vs repos\Launcher\Launcher\obj\Debug\Launcher.exe.manifest
+D:\Ważne pliki\vs repos\Launcher\Launcher\obj\Debug\Launcher.application

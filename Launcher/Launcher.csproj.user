@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>ftp://ftpupload.net/htdocs/Launcher/|ftp://ftpupload.net/htdocs/|ftp://ftpupload.net/|C:\Users\Użytkownik\Desktop\Nowy folder\|ftp://ftpupload.net/epiz_27392141/</PublishUrlHistory>
+    <InstallUrlHistory>http://fajne-gry.great-site.net/|http://localhost/Launcher/|http://downloadlauncher.epizy.com/|http://ftpupload.net/|\\localhost\Ważne pliki\Deploy\</InstallUrlHistory>
+    <SupportUrlHistory>https://sites.google.com/view/lakilauncher</SupportUrlHistory>
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>pl-PL</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>
