@@ -4,7 +4,7 @@ namespace Launcher
 {
     class DB
     {
-        private MySqlConnection connection = new MySqlConnection("Server=sql301.epizy.com;Port=3306;Database=epiz_26887928_launcherFG;Uid=epiz_26887928;Pwd=VO8DQMKY7l");
+        private MySqlConnection connection = new MySqlConnection("noji co pajacu chcesz moje pasy do databazy?");
 
         public void openConnection()
         {
